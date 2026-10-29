@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "paddock-cards": {
+      "url": "https://api.paddock.so/agent-commerce/mcp/connected"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "paddock-cards",
+  "version": "1.0.0",
+  "description": "Send birthday cards, Christmas cards and postcards, printed and mailed for you.",
+  "author": {
+    "name": "Paddock",
+    "email": "team@paddock.so"
+  },
+  "homepage": "https://paddock.so/agent-commerce/",
+  "repository": "https://github.com/paddockteam/paddock-cards-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "greeting cards",
+    "postcards",
+    "mail",
+    "gifts",
+    "commerce"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
